@@ -1,4 +1,11 @@
 {
+  "name": "your-app-name",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "npm run build",
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "dependencies": {
     "aws-sdk": "^2.1397.0"
   }
