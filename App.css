@@ -1,0 +1,32 @@
+/* App.css */
+
+.App {
+    text-align: center;
+  }
+  
+  .App-header {
+    background-color: pink;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-family: 'Comic Sans MS', cursive;
+    font-size: 36px;
+    color: green;
+  }
+  
+  button {
+    background-color: purple;
+    color: white;
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: magenta;
+  }
+  
